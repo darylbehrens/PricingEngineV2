@@ -1,0 +1,6 @@
+C:\Users\daryl.behrens.CID\source\repos\V2\PricingEngine\PricingEngine.Stores\bin\Debug\PricingEngine.Stores.dll
+C:\Users\daryl.behrens.CID\source\repos\V2\PricingEngine\PricingEngine.Stores\bin\Debug\PricingEngine.Stores.pdb
+C:\Users\daryl.behrens.CID\source\repos\V2\PricingEngine\PricingEngine.Stores\obj\Debug\PricingEngine.Stores.csproj.CoreCompileInputs.cache
+C:\Users\daryl.behrens.CID\source\repos\V2\PricingEngine\PricingEngine.Stores\obj\Debug\PricingEngine.Stores.dll
+C:\Users\daryl.behrens.CID\source\repos\V2\PricingEngine\PricingEngine.Stores\obj\Debug\PricingEngine.Stores.pdb
+C:\Users\daryl.behrens.CID\source\repos\V2\PricingEngine\PricingEngine.Stores\obj\Debug\PricingEngine.Stores.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\daryl.behrens.CID\source\repos\V2\PricingEngine\PricingEngine.TestConsole\bin\Debug\PricingEngine.TestConsole.exe.config
+C:\Users\daryl.behrens.CID\source\repos\V2\PricingEngine\PricingEngine.TestConsole\bin\Debug\PricingEngine.TestConsole.exe
+C:\Users\daryl.behrens.CID\source\repos\V2\PricingEngine\PricingEngine.TestConsole\bin\Debug\PricingEngine.TestConsole.pdb
+C:\Users\daryl.behrens.CID\source\repos\V2\PricingEngine\PricingEngine.TestConsole\bin\Debug\PricingEngine.dll
+C:\Users\daryl.behrens.CID\source\repos\V2\PricingEngine\PricingEngine.TestConsole\bin\Debug\PricingEngine.Models.dll
+C:\Users\daryl.behrens.CID\source\repos\V2\PricingEngine\PricingEngine.TestConsole\bin\Debug\PricingEngine.Models.pdb
+C:\Users\daryl.behrens.CID\source\repos\V2\PricingEngine\PricingEngine.TestConsole\bin\Debug\PricingEngine.pdb
+C:\Users\daryl.behrens.CID\source\repos\V2\PricingEngine\PricingEngine.TestConsole\obj\Debug\PricingEngine.TestConsole.csprojResolveAssemblyReference.cache
+C:\Users\daryl.behrens.CID\source\repos\V2\PricingEngine\PricingEngine.TestConsole\obj\Debug\PricingEngine.TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\daryl.behrens.CID\source\repos\V2\PricingEngine\PricingEngine.TestConsole\obj\Debug\PricingEngine.TestConsole.exe
+C:\Users\daryl.behrens.CID\source\repos\V2\PricingEngine\PricingEngine.TestConsole\obj\Debug\PricingEngine.TestConsole.pdb
+C:\Users\daryl.behrens.CID\source\repos\V2\PricingEngine\PricingEngine.TestConsole\bin\Debug\PricingEngine.Stores.dll
+C:\Users\daryl.behrens.CID\source\repos\V2\PricingEngine\PricingEngine.TestConsole\bin\Debug\PricingEngine.Stores.pdb
